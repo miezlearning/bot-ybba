@@ -15,7 +15,8 @@ Seperti yang disebutkan sebelumnya kami memiliki beberapa fitur; *pengumuman pos
 
 Fitur ini akan mengirim pesan di channel yang kalian tentukan dengan embed message yang sangat informatif.
 
-[Letak_SS]
+![image](https://github.com/miezlearning/bot-ybba/assets/129609799/9c81e343-d9fb-48f3-9e2d-6e11ff372b39)
+
 
 - **Pengumuman Post Dihapus** ⛔
 
@@ -23,13 +24,15 @@ Jadi, ketika ada salah satu post yang dihapus. Embed sebelumnya akan di edit ata
 
 Nah, kalau kalian ingin dekripsi atau membuka kunci enkripsinya pakai saja file `dekripsi.py`.
 
-[Letak_SS]
+![image](https://github.com/miezlearning/bot-ybba/assets/129609799/3c4f7e19-56b4-4a36-a84d-a70c02eeb929)
+
 
 - **Respon Bot Acak** 😊
 
 Ketika kamu mention/sebut nama botnya, maka akan ada tanggapan random dari botnya 😅.
 
-[Letak_SS]
+![image](https://github.com/miezlearning/bot-ybba/assets/129609799/9b175140-3a30-46ed-9127-57c9eb751f54)
+
 
 # Cara Pakai
 
@@ -43,16 +46,19 @@ Ketika kamu mention/sebut nama botnya, maka akan ada tanggapan random dari botny
 6. Simpan tokennya terlebih dahulu dengan cara tekan tombol **Reset Token**.
 7. Nyalakan, beberapa ketentuannya seperti di screenshot bawah
 
-[Letak SS]
+![image](https://github.com/miezlearning/bot-ybba/assets/129609799/96dc6d75-eaaa-4540-825c-204ae7564904)
+
 
 8. Invite Bot, Copy link dan sesuaikan dengan ID bot yang kalian punya (lihatnya di **General Information**).
 
 `https://discord.com/oauth2/authorize?client_id=ID_BOTNYA_DISINI&scope=bot&permissions=8`
 
 9. Buka **Visual Studio Code** , dan bukan terminal baru ketikkan ini `pip install -r requirements.txt`
-    
+
 10. jalankan filenya menggunakan python([cara run file python](https://jagongoding.com/python/vscode-untuk-python/)).
 
 Jika sudah seharusnya seperti ini :
 
-[Letak_SS]
+![image](https://github.com/miezlearning/bot-ybba/assets/129609799/f6c8145f-65c3-47f9-9225-518fa2e6d95d)
+
+    
